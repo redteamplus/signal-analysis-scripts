@@ -47,11 +47,8 @@ Conclusion: 🟢 Static Code
 ## 🔗 Downloads & Tools Used
 
 - [URH (Universal Radio Hacker)](https://github.com/jopohl/urh/releases)
-- [SDR++](https://www.sdrpp.org/)
-- [Flipper Zero](https://flipperzero.one/)
-- [TinySA Analyzer](https://tinysa.org/)
-- [GNU Radio](https://www.gnuradio.org/)
-- [RTL-SDR Blog](https://www.rtl-sdr.com/)
+
+- [RTL-SDR ](https://www.nooelec.com/store/sdr/nesdr-smart-xtr.html)
 
 ---
 
